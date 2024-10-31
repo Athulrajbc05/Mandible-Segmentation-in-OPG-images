@@ -59,7 +59,8 @@ During training, the model's performance is evaluated on a validation set. The v
 After training, loss and Dice score plots are generated to visualize model performance over epochs. This helps in assessing convergence and identifying potential overfitting.
 Example Results:
 Training and Validation Loss Plot:
-<img src="./result_images/unet_train_validation_loss.png" alt="Training and Validation Loss Plot" width="500"/>
+![unet_train_validation_loss](https://github.com/user-attachments/assets/9350c062-707f-410f-93c3-651cb5e09760)
+
 
 
 Training and Validation Dice Score Plot:
