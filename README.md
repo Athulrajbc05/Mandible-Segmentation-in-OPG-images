@@ -60,11 +60,8 @@ After training, loss and Dice score plots are generated to visualize model perfo
 Example Results:
 Training and Validation Loss Plot:
 ![unet_train_validation_loss](https://github.com/user-attachments/assets/9350c062-707f-410f-93c3-651cb5e09760)
-
-
-
 Training and Validation Dice Score Plot:
+![unet_train_validtion_dice_score](https://github.com/user-attachments/assets/535bc003-4557-4d12-be86-08fb2bf951e9)
 
-<!--[unet_train_validtion_dice_score](https://github.com/user-attachments/assets/8fe4af95-7144-4d47-8663-b95daba58f0e)-->
 
 
